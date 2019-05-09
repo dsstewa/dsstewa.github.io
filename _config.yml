@@ -1,11 +1,11 @@
 # Site settings
 author: David Stewart
-title: 
+title: The Structural Coder
 header-img: img/home-bg.png
 email: davidstewart@gmail.com
 copyright_name: David Stewart
 description: > # this means to ignore newlines until "baseurl:"
-  
+  davidstewart.dev
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dsstewa
