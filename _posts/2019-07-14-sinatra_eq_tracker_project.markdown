@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra EQ Tracker Project"
-date:       2019-07-14 17:31:17 +0000
+date:       2019-07-14 13:31:18 -0400
 permalink:  sinatra_eq_tracker_project
 ---
 
