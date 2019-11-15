@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript Rails Project!"
-date:       2019-11-15 03:50:33 +0000
+date:       2019-11-14 22:50:34 -0500
 permalink:  javascript_rails_project
 ---
 
